@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Minchan Kim, Student in the [SeoulTech](https://en.seoultech.ac.kr/)
+
+My major is
+
+- :chart: **Business Administration**
+- -:desktop_computer: **Computer Science**
+
 <!--
 **goldtan/goldtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
