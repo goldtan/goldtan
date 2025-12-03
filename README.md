@@ -5,7 +5,7 @@ I'm **Minchan Kim**, a Ph.D. student in **Data Science** at [Seoul National Univ
 🎓 **Education**  
 - 🧑‍🎓 **B.B.A. & B.S. in Computer Science** – Seoul National University of Science and Technology ([SeoulTECH](https://en.seoultech.ac.kr/))  
 - 📊 **M.S. in Data Science** – Seoul National University of Science and Technology ([SeoulTECH](https://en.seoultech.ac.kr/))  
-- 🧠 **Ph.D. in Data Science** – Seoul National University (SNU)
+- 🧠 **Ph.D. in Data Science** – Seoul National University [(SNU)](https://en.snu.ac.kr/).
 
 💡 I’m passionate about  
 - 🧾 **Graph Neural Networks (GNN)**  
