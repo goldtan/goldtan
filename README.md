@@ -9,8 +9,9 @@ I'm **Minchan Kim**, a Ph.D. student in **Data Science** at [Seoul National Univ
 
 💡 I’m passionate about  
 - 🧾 **Graph Neural Networks (GNN)**  
-- 📈 **Explainable AI**  
-- 🧩 **Reinforcement Learning**
+- 🧩 **Retrieval Augmented Generation**
+- 📈 **Recommendation System**  
+
 
 📫 Feel free to connect or reach out!  
 - Email: `mmm5373@snu.ac.kr`  
