@@ -14,7 +14,7 @@ I'm **Minchan Kim**, a Ph.D. student in **Data Science** at [Seoul National Univ
 
 📫 Feel free to connect or reach out!  
 - Email: `mmm5373@snu.ac.kr`  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mkim97/)  
+- LinkedIn: [Minchan Kim](https://www.linkedin.com/in/mkim97/)  
 - Homepage: 
 
 <!--
